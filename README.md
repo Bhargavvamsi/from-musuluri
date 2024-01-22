@@ -15,3 +15,5 @@ Creating repository for markdown changes
 * Go to Museum
 * Go to Amusement Park
 * Go to old rock mountain
+
+[Redirect to MyMedia](MyMedia.md)
