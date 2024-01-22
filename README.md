@@ -11,3 +11,7 @@ Creating repository for markdown changes
 1. Chicken Biriyani
 2. Chicken Kabab
 3. Tandoori Chicken
+
+* Go to Museum
+* Go to Amusement Park
+* Go to old rock mountain
