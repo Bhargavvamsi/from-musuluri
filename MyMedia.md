@@ -25,5 +25,16 @@ The below table gives you the information about my favorite songs and the reason
 
 > Our greatest glory is not in never falling, but in rising every time we fall. *Swami Vivekananda*
 
+---
+
+## Code Fencing
+
+This sample SQL code displays a record if all the conditions separated by AND are true.
+
+```
+SELECT DISTINCT column1, column2, ...
+FROM table_name;
+```
+
 
 
