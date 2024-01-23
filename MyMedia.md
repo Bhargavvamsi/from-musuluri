@@ -16,3 +16,14 @@ The below table gives you the information about my favorite songs and the reason
 | "Lagi Aaj Sawan Ki"          | It's a Classical/Filmi song         | Suresh Wadkar           |
 | "Vande Mataram"              | It's a Indian national song         | A.R. Rahman             |
 | "Binte Dil"                  | It's a melodious and Romantic          | Arijit Singh            |
+
+---
+
+## My Favourite Quotes
+
+> You must be the change you wish to see in the world. *Mahatma Gandhi*
+
+> Our greatest glory is not in never falling, but in rising every time we fall. *Swami Vivekananda*
+
+
+
