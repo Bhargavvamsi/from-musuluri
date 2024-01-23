@@ -35,6 +35,7 @@ This sample SQL code displays a record if all the conditions separated by AND ar
 SELECT DISTINCT column1, column2, ...
 FROM table_name;
 ```
+Link to snippet source is <https://code.pieces.app/collections/sql
 
 
 
